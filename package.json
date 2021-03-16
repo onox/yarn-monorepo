@@ -1,0 +1,13 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "monorepo desc",
+  "main": "index.js",
+  "author": "monorepo author",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "foo",
+    "bar"
+  ]
+}

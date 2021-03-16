@@ -1,0 +1,12 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "foo desc",
+  "main": "index.js",
+  "author": "foo author",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}

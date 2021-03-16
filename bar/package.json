@@ -1,0 +1,12 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "bar desc",
+  "main": "index.js",
+  "author": "bar author",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "foo": "workspace:*"
+  }
+}
